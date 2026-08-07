@@ -1,4 +1,4 @@
-# Olá, eu sou João Pedro 👋
+# Olá, eu sou João Pedro
 
 🎓 Estudante do 4º período de **Análise e Desenvolvimento de Sistemas (ADS)** na Univel.  
 💻 Atualmente atuo como **Estagiário de Suporte Técnico** na Print Service.  
@@ -12,14 +12,14 @@ Paralelamente, venho aprofundando meus conhecimentos em desenvolvimento de softw
 
 Atualmente estudo:
 
-- 🐍 Python
-- 🗄️ SQL e Banco de Dados
-- 🌿 Git e GitHub
-- 🐧 Linux
-- ⚙️ Desenvolvimento Back-end
-- 🤖 Inteligência Artificial
-- 🔄 Automação
-- 🔐 Segurança da Informação
+- Python
+- SQL e Banco de Dados
+- Git e GitHub
+- Linux
+- Desenvolvimento Back-end
+- Inteligência Artificial
+- Automação
+- Segurança da Informação
 
 ## 🎯 Objetivo
 
