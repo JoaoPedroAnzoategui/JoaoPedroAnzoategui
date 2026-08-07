@@ -15,7 +15,7 @@
                  \_______\
 </pre>
 
-# Olá, eu sou João Pedro 👋
+# Olá, eu sou João Pedro
 
 Estudante do **4º período de Análise e Desenvolvimento de Sistemas (ADS)** na Univel.  
 Atualmente atuo como **Estagiário de Suporte Técnico** na Print Service.  
